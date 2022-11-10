@@ -45,8 +45,8 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="widget">
                         <img src="{{ asset('assets/front/img/logo.png') }}" alt="about" />
-                        <p>7th Harley Place, London W1G 8LZ United Kingdom</p>
-                        <h6><span>Call us: </span>(+880) 111 222 3456</h6>
+                        <p>7th Harley Place, Bandung W1G 8LZ Indonesia</p>
+                        <h6><span>Call us: </span>(+62) 08996159510</h6>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">

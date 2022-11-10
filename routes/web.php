@@ -9,11 +9,6 @@ use App\Http\Controllers\ReviewerController;
 use App\Http\Controllers\TahunRilisController;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
-Route::get('about', [MyController::class, 'about']);
 
 Auth::routes();
 

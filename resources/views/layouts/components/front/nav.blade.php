@@ -8,8 +8,7 @@
                 <form action="#">
                     <select>
                         <option value="Movies">Movies</option>
-                        <option value="Movies">Movies</option>
-                        <option value="Movies">Movies</option>
+                        <option value="Movies">Genre</option>
                     </select>
                     <input type="text" />
                     <button><i class="icofont icofont-search"></i></button>
